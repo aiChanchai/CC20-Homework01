@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+th {
+  border: 1px solid black;
+  width: 100px;
+}
+
+.T1{
+  width: 400px;
+}
+
+td{
+  border: 1px solid black;
+  
+}
+.T2{
+  background-color: dodgerblue;
+}
+
+.T3{
+  width: 400px;
+}
+
+.head{
+  border-right: 1px solid;
+  padding-right: 6px;
+}
+
+.box{
+  width: 100%;
+  border: 1px solid lightgrey;
+}
+form{
+  border: 1px solid lightgrey;
+  width: 400px;
+  padding: 40px;
+  border-radius: 8px;
+
+}
+
+select{
+  width: 100%;
+}
+
+textarea{
+  width: 100%;
+}
